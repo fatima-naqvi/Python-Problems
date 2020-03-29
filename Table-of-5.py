@@ -1,0 +1,7 @@
+print("5 x 1 = 5")
+print("5 x 2 = 10")
+print("5 x 3 = 15")
+print("5 x 4 = 20")
+print("5 x 5 = 25")
+print("5 x 6 = 30")
+print("5 x 7 = 35")
